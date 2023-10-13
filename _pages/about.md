@@ -23,7 +23,7 @@ I obtained my B.E. degree in Automation, Computer Science and Technology (Minor)
 In the same year, I was admitted to study for a M.Sc. degree without entrance examination in Nanjing University.
 Before that, I graduated from Linchuan No.1 Middle School, Jiangxi Province in 2017.
 
-My research interests lie in natural language processing, especially in controllable text generation and question & answering. My ultimate goal is to narrow the interaction barrier between huaman and machine, with a controllable, efficient and humanism languge agent. 
+My research interests lie in natural language processing, especially in controllable text generation and question & answering. My ultimate goal is to narrow the interaction barrier between human and machine, with a controllable, efficient and humanism languge agent. 
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)* <br> M.Sc. in Computer Science and Technology, Nanjing University.
