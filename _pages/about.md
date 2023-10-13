@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm),[ Nanjing University](https://www.nju.edu.cn/), supervied by [Cam-Tu Nguyen](https://ai.nju.edu.cn/CamTuNguyen/index.htm).
+I am a master student at the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), supervied by [Cam-Tu Nguyen](https://ai.nju.edu.cn/CamTuNguyen/index.htm).
 
-I obtained my B.E. degree in Automation, Computer Science and Technology (Minor) from  Xi'an Jiaotong University (XJTU) in 2021. 
+I obtained my B.E. degree in Automation (Major), and Computer Science and Technology (Minor) from  Xi'an Jiaotong University (XJTU) in 2021. 
 In the same year, I was admitted to study for a M.Sc. degree without entrance examination in Nanjing University.
 Before that, I graduated from Linchuan No.1 Middle School, Jiangxi Province in 2017.
 
@@ -33,7 +33,7 @@ My research interests lie in natural language processing, especially in controll
 # 💻 Experiences
 - *2023.07 - 2023.09*, AI Fundamental Technology, Digital Technologies, [Ant Group](https://intl.antdigital.com/home) <img src='./images/ant.png' style='width: 1em;'>, Hangzhou.
 - *2023.05 - 2023.07*, NLP Group, Research Institute, [SenceTime](https://www.sensetime.com/en) <img src='./images/sensetime.png' style='width: 1em;'>, Shanghai.
-- *2022.07 - 2023.01*, Conversational Services and Technologies, [Alibaba DAMO Academy ](https://damo.alibaba.com/?lang=en) <img src='./images/damo.png' style='width: 1em;'>, Beijing.
+- *2022.07 - 2023.01*, Conversational Services and Technologies, [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) <img src='./images/damo.png' style='width: 1em;'>, Beijing.
 
 {% include_relative includes/pubs.md %}
 {% include_relative includes/honors.md %}
