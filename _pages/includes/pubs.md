@@ -1,6 +1,6 @@
 # 📚 Publications 
 
-- [Improving Question Generation with Multi-level Content Planning]() \| [Code]() \| [Data]() \|
+- [Improving Question Generation with Multi-level Content Planning]() \| [Code](https://github.com/zeaver/MultiFactor) \| [Data]() \|
 <br>**Zehua Xia**, Qi Gou, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li, Cam-Tu Nguyen
 <br> EMNLP 2023 Findings
 
