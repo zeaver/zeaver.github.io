@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), supervied by [Cam-Tu Nguyen](https://ai.nju.edu.cn/CamTuNguyen/index.htm).
+I am a master student at the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), supervised by [Cam-Tu Nguyen](https://ai.nju.edu.cn/CamTuNguyen/index.htm).
 
 I obtained my B.E. degree in Automation (Major), and Computer Science and Technology (Minor) from  Xi'an Jiaotong University (XJTU) in 2021. 
 In the same year, I was admitted to study for a M.Sc. degree without entrance examination in Nanjing University.
