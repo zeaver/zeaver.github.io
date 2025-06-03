@@ -31,7 +31,7 @@ My research interests lie in natural language processing, especially in controll
 - *2017.09 - 2021.06* <br> B.E. in Automation (Major), Xi'an Jiaotong University.
 
 # 💻 Experiences
-- *2024.06 - Present*, AI Messenger Product Designer, [Alibaba.com](www.alibaba.com) <img src='./images/damo.png' style='width: 1em;'>, Hangzhou.
+- *2024.06 - Present*, AI Messenger Product Designer, [Alibaba.com](https://www.alibaba.com/) <img src='./images/damo.png' style='width: 1em;'>, Hangzhou.
 - *2023.07 - 2023.09*, AI Fundamental Technology, Digital Technologies, [Ant Group](https://intl.antdigital.com/home) <img src='./images/ant.png' style='width: 1em;'>, Hangzhou.
 - *2023.05 - 2023.07*, NLP Group, Research Institute, [SenceTime](https://www.sensetime.com/en) <img src='./images/sensetime.png' style='width: 1em;'>, Shanghai.
 - *2022.07 - 2023.01*, Conversational Services and Technologies, [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) <img src='./images/damo.png' style='width: 1em;'>, Beijing.
