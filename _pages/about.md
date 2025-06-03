@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I serve as an AI Messenger Product Designer in Alibaba.com ([web](www.alibaba.com) | [Android](https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon) | [iOS](https://apps.apple.com/us/app/alibaba-com/id503451073)), one of the world’s leading B2B ecommerce marketplaces. At Alibaba.com, I am responsible for the development and maintenance of the fundamental messenger and some of the Smart Assistant, which bridge the cross-border wholesale transactions between the Chinese suppliers and overseas buyers.
+Currently, I serve as an AI Messenger Product Designer in Alibaba.com ([web](www.alibaba.com) \| [Android](https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon) \| [iOS](https://apps.apple.com/us/app/alibaba-com/id503451073)), one of the world’s leading B2B ecommerce marketplaces. At Alibaba.com, I am responsible for the development and maintenance of the fundamental messenger and some of the Smart Assistant, which bridge the cross-border wholesale transactions between the Chinese suppliers and overseas buyers.
 
 Prior to joining Alibaba.com, I pursued my master's degree at the [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), supervised by [Cam-Tu Nguyen](https://ai.nju.edu.cn/CamTuNguyen/index.htm).
 In 2021, I graduated from Xi'an Jiaotong University (XJTU) with a Bachelor of Engineering in Automation as my major and a minor in Computer Science and Technology. In the same year, I was admitted to Nanjing University for a Master of Science degree without an entrance examination. 
